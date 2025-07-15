@@ -1,3 +1,6 @@
 [submodule "1PYTHON"]
 	path = 1PYTHON
 	url = https://github.com/Varunkumar2516/PYTHON.git
+[submodule "2PYTHON-Numpy"]
+	path = 2PYTHON-Numpy
+	url = https://github.com/Varunkumar2516/Python-Numpy.git
