@@ -1,3 +1,6 @@
 [submodule "PYTHON"]
 	path = PYTHON
 	url = https://github.com/Varunkumar2516/PYTHON.git
+[submodule "Numpy-Lib"]
+	path = Numpy-Lib
+	url = https://github.com/Varunkumar2516/Python-Numpy.git
