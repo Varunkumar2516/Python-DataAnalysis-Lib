@@ -4,3 +4,6 @@
 [submodule "2PYTHON-Numpy"]
 	path = 2PYTHON-Numpy
 	url = https://github.com/Varunkumar2516/Python-Numpy.git
+[submodule "3PYTHON-Pandas"]
+	path = 3PYTHON-Pandas
+	url = https://github.com/Varunkumar2516/Python-Pandas.git
