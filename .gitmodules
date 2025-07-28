@@ -7,3 +7,6 @@
 [submodule "3PYTHON-Pandas"]
 	path = 3PYTHON-Pandas
 	url = https://github.com/Varunkumar2516/Python-Pandas.git
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/Varunkumar2516/Data_Analysis_Projects.git
