@@ -10,3 +10,6 @@
 [submodule "Projects"]
 	path = Projects
 	url = https://github.com/Varunkumar2516/Data_Analysis_Projects.git
+[submodule "python_Streamlit"]
+	path = python_Streamlit
+	url = https://github.com/Varunkumar2516/python_Streamlit.git
